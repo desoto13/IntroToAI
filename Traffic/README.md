@@ -1,0 +1,2 @@
+# desoto13
+#The accuracy of 1 convolution layer learning 32 filters with 3x3 kernel using max pooling layer with 2x2 pool size is higher than 1 convolution layer learning 64 filters with 3x3 kernel using max pooling layer with 3x3 pool size. Applying both of the scenario stated previously yields to a higher accuracy. Tested different numbers and sizes of hidden layers and results stated that the accuracy is directly proportional to the size of the hidden layer. More hidden layer yields to better accuracy. 
